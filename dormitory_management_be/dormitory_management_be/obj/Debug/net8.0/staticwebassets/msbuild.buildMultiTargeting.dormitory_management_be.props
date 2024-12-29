@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dormitory_management_be.props" />
+</Project>

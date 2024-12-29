@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dormitory_management\\dormitory_management_be\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\controllers\\roomregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\controllers\\roomregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\models\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\data\\dormitorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\data\\dormitorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|d:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE71FAB-B684-4B3B-8A5D-521DF2860F32}|dormitory_management_be\\dormitory_management_be.csproj|solutionrelative:dormitory_management_be\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomRegistrationsController.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\RoomRegistrationsController.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Controllers\\RoomRegistrationsController.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\RoomRegistrationsController.cs",
+              "RelativeToolTip": "dormitory_management_be\\Controllers\\RoomRegistrationsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:56:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Models\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Models\\SmtpSettings.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Models\\SmtpSettings.cs",
+              "RelativeToolTip": "dormitory_management_be\\Models\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:56:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DormitoryContext.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Data\\DormitoryContext.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Data\\DormitoryContext.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Data\\DormitoryContext.cs",
+              "RelativeToolTip": "dormitory_management_be\\Data\\DormitoryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:56:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\appsettings.json",
+              "RelativeDocumentMoniker": "dormitory_management_be\\appsettings.json",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\appsettings.json",
+              "RelativeToolTip": "dormitory_management_be\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T11:55:51.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Program.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Program.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Program.cs",
+              "RelativeToolTip": "dormitory_management_be\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:39:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "dormitory_management_be\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:58:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "dormitory_management_be\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\dormitory_management\\dormitory_management_be\\dormitory_management_be\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "dormitory_management_be\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA8wK8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:36:09.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
